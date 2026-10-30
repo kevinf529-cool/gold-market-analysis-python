@@ -1,10 +1,8 @@
-# gold-market-analysis-python
-Exploratory data analysis and machine learning project analyzing gold price behavior using financial market data.
+# Gold Market Analysis | Python & Machine Learning
 
-# Gold Market Analysis Using Python
+Financial Data Analysis | Statistical Modeling | Predictive Analytics
 
-## Overview
-This project explores historical gold price behavior using financial market data. The goal of the analysis was to investigate relationships between gold and several other financial indicators and experiment with predictive models that attempt to forecast gold price direction.
+This project explores historical gold price behavior using financial market data. The analysis investigates relationships between gold prices and other financial indicators through exploratory data analysis, statistical testing, and machine learning techniques.
 
 ## Dataset
 The dataset contains historical financial market data including:
