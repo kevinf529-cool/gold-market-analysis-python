@@ -6,8 +6,6 @@ Exploratory data analysis and machine learning project analyzing gold price beha
 ## Overview
 This project explores historical gold price behavior using financial market data. The goal of the analysis was to investigate relationships between gold and several other financial indicators and experiment with predictive models that attempt to forecast gold price direction.
 
-The project was completed as part of my DSC 530 coursework in applied statistics and data analysis.
-
 ## Dataset
 The dataset contains historical financial market data including:
 
@@ -17,7 +15,7 @@ The dataset contains historical financial market data including:
 • Silver prices  
 • EUR/USD exchange rate  
 
-The dataset used in this analysis can be found in the **data** folder.
+The dataset used for this analysis is included in this repository as gld_price_data.csv.
 
 ## Tools Used
 Python  
@@ -53,3 +51,8 @@ Clustering techniques were also applied to identify patterns within the financia
 This project helped me practice applying statistical analysis, exploratory data analysis, and machine learning techniques to financial market data using Python.
 
 It also reinforced how financial indicators can interact and influence market behavior.
+
+## Project Files
+
+- [View Python Analysis Notebook](gold_market_analysis.ipynb)
+- [View Historical Market Dataset](gld_price_data.csv)
